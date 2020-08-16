@@ -67,3 +67,12 @@ Esse projeto foi ideazado por:
 * *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
 
 
+##  Desafio dia 02 - Loader animado <a name="id02"></a>
+![Dia 02](https://www.loom.com/share/54e3f5e02dce43b4a728a94fcc8882f9)
+
+
+[Meu código]()
+
+##### O que eu aprendi
+
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
