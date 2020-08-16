@@ -68,7 +68,7 @@ Esse projeto foi ideazado por:
 
 
 ##  Desafio dia 02 - Loader animado <a name="id02"></a>
-![Dia 02](https://www.loom.com/share/54e3f5e02dce43b4a728a94fcc8882f9)
+![Dia 02](https://media.giphy.com/media/UrDpHmT0xsvnv9TGDx/giphy.gif)
 
 
 [Meu código]()
