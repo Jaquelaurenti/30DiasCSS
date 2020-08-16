@@ -53,11 +53,7 @@ Esse projeto foi ideazado por:
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
 ![Dia 01](https://user-images.githubusercontent.com/37448340/88348819-d38d7000-cd24-11ea-99d1-39b04afb77f2.gif)
 
-
-[Meu codigo]()
-
 ##### O que eu aprendi
-
 
 * *Criar as camadas utilizando a tag `<span>`*
 * *tranformação 2D ou 3D de um elemento [aqui](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
@@ -69,9 +65,6 @@ Esse projeto foi ideazado por:
 
 ##  Desafio dia 02 - Loader animado <a name="id02"></a>
 ![Dia 02](https://media.giphy.com/media/UrDpHmT0xsvnv9TGDx/giphy.gif)
-
-
-[Meu código]()
 
 ##### O que eu aprendi
 
