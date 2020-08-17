@@ -69,3 +69,10 @@ Esse projeto foi ideazado por:
 ##### O que eu aprendi
 
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+
+
+##  Desafio dia 03 - Mudança de cor de texto quando entra em outra div <a name="id03"></a>
+
+<img src="Desafios/dia 03/gif/dia03.gif">
+
+
