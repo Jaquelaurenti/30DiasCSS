@@ -83,3 +83,7 @@ Esse projeto foi ideazado por:
 
 <img src="Desafios/dia 05/gif/dia05.gif">
 
+##  Dia 06 - Efeito lightning text </a>
+
+<img src="Desafios/dia 06/gif/dia06.gif">
+
