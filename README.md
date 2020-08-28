@@ -87,3 +87,6 @@ Esse projeto foi ideazado por:
 
 <img src="Desafios/dia 06/gif/dia06.gif">
 
+##  Dia 07 - Preloader Animado </a>
+
+<img src="Desafios/dia 07/gif/dia07.gif">
