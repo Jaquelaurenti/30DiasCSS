@@ -90,3 +90,7 @@ Esse projeto foi ideazado por:
 ##  Dia 07 - Preloader Animado </a>
 
 <img src="Desafios/dia 07/gif/dia07.gif">
+
+##  Dia 08 - Coração Batendo </a>
+
+<img src="Desafios/dia 08/gif/dia08.gif">
