@@ -89,8 +89,12 @@ Esse projeto foi ideazado por:
 
 ##  Dia 07 - Preloader Animado </a>
 
-<img src="Desafios/Dia 07/gif/dia07.gif">
+<img src="Desafios/dia 07/gif/dia07.gif">
 
-##  Dia 08 - Coração Batendo </a>
+##  Dia 08 - Efeito Pulsar </a>
 
 <img src="Desafios/dia 08/gif/dia08.gif">
+
+##  Dia 09 - Pêndulo de Newton </a>
+
+<img src="Desafios/dia 09/gif/dia09.gif">
