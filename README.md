@@ -98,3 +98,8 @@ Esse projeto foi ideazado por:
 ##  Dia 09 - Pêndulo de Newton </a>
 
 <img src="Desafios/dia 09/gif/dia09.gif">
+
+
+##  Dia 10 - Animação texto alternando </a>
+
+<img src="Desafios/dia 10/gif/dia10.gif">
