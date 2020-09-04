@@ -103,3 +103,8 @@ Esse projeto foi ideazado por:
 ##  Dia 10 - Animação texto alternando </a>
 
 <img src="Desafios/dia 10/gif/dia10.gif">
+
+##  Dia 11 - Botão com efeito hover </a>
+
+<img src="Desafios/dia 11/gif/dia11.gif">
+
