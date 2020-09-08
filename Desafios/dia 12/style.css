@@ -1,0 +1,32 @@
+body
+{
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+h1
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto';
+    font-size: 80px;
+    color: rgba(109, 109, 109, 0.986);
+    position: relative;
+}
+h1::before 
+{
+    content: "@JaqueLaurenti";
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    color: #ff9020;
+    width: 0%;
+    overflow: hidden;
+    transition: all 0.3s;
+}
+h1:hover::before
+{
+    width: 100%;
+}
