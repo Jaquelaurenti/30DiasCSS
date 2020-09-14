@@ -108,3 +108,14 @@ Esse projeto foi ideazado por:
 
 <img src="Desafios/dia 11/gif/dia11.gif">
 
+##  Dia 12 - Efeito de preenchimento ao passar o mouse </a>
+
+<img src="Desafios/dia 12/gif/dia12.gif">
+
+##  Dia 13 - Loading com efeito </a>
+
+<img src="Desafios/dia 13/gif/dia13.gif">
+
+##  Dia 14 - Fundo de texto animado </a>
+
+<img src="Desafios/dia 14/gif/dia14.gif">
