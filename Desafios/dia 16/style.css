@@ -1,0 +1,40 @@
+body
+{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #312e38;
+}
+a {
+	text-decoration: none;
+	color: whitesmoke;
+	font-family: 'Roboto Slab', serif;
+	font-size: 40px;
+	border: 3px solid white;
+	padding: 40px 80px;
+	position: relative;
+	transition: all 1s;
+	overflow: hidden;
+}
+
+a:before {
+	content: '🧡 Desafio CSS';
+	font-family: 'Roboto Slab', serif;
+	color: whitesmoke;
+	background-color: #ff9000;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: absolute;
+	left: 0;
+	top: 0;
+	height: 100%;
+	width: 100%;
+	transform: translateY(-100%);
+	transition:all .5s;
+}
+
+a:hover:before {
+	transform: translateY(0);
+}

@@ -119,3 +119,12 @@ Esse projeto foi ideazado por:
 ##  Dia 14 - Fundo de texto animado </a>
 
 <img src="Desafios/dia 14/gif/dia14.gif">
+
+##  Dia 15 - Fundo de texto animado </a>
+
+<img src="Desafios/dia 15/gif/dia15.gif">
+
+##  Dia 16 - Fundo de texto animado </a>
+
+<img src="Desafios/dia 16/gif/dia16.gif">
+
